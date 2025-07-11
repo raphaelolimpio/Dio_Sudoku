@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cmake",
+			"label": "CMake: configurar",
+			"command": "configure",
+			"problemMatcher": [],
+			"detail": "Tarefa do modelo CMake configurar"
+		},
+		{
+			"type": "cmake",
+			"label": "CMake: configurar",
+			"command": "configure",
+			"problemMatcher": [],
+			"detail": "Tarefa do modelo CMake configurar"
+		}
+	]
+}
